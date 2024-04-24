@@ -1,0 +1,19 @@
+{
+    "skenaariot": [
+        {
+            "name": "Tehtävä 1 - Keskusteleva tekoäly",
+            "description": "Keskusteleva tekoäly scenaarion tarkoitus on antaa käyttäjälleen esimerkki kokemus tekoälyn käytöstä innostavalla ja leikkisällä tavalla",
+            "file": "tehtävä1.json"
+        },
+        {
+            "name": "Tehtävä 2 - Valehteleeko tekoäly?",
+            "description": "Valehteleva tekoäly osio pyrkii näyttämään tekoälyn hallusinoinnin käytännössä",
+            "file": "tehtävä2.json"
+        },
+        {
+            "name": "Tehtävä 3 - Läksy apuri?",
+            "description": "Keskusteleva tekoäly scenaarion tarkoitus on antaa käyttäjälleen esimerkki kokemus tekoälyn käytöstä innostavalla ja leikkisällä tavalla",
+            "file": "tehtävä3.json"
+        }
+    ]
+}
