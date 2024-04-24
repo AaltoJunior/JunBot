@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat Simulation</title>
+    <style>
+        #chat, #options {
+            margin: 10px;
+            padding: 10px;
+            border: 0px solid black;
+            min-height: 100px;
+        }
+        button {
+            display: block;
+
+            padding: 10px;
+            margin-bottom: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .message-bubble {
+            margin: 5px;
+            padding: 8px;
+            background-color: #f1f1f1;
+            border-radius: 5px;
+        }
+        .player-message {
+            background-color: #add8e6;
+            text-align: right;
+        }
+        .scenario-button {
+            padding: 10px 15px;
+            border: none;
+            border-radius: 5px;
+            background-color: #1c68b0;
+            color: white;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            flex: 1 ;
+        }
+    </style>
+</head>
+<body>
+  <div class="container">
+    <h1>JunBot 🤖</h1>
+    <div id="chat"></div>
+    <hr class="divider" />
+    <div id="options"></div>
+    <hr class="divider" />
+    <div id="scenarioButtons"></div>
+  </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
