@@ -1,5 +1,7 @@
 # JunBot
 Tekoäly pseudosimulaatio botti demoamaan tekoälyn toimintaa turvallisesti
+![image](https://github.com/AaltoJunior/JunBot/assets/167991783/d52ed1dd-e41e-4a27-9c73-d2ef9dc68e29)
+
 
 Voit käyttää JunBottia github pagesissa https://aaltojunior.github.io/JunBot/
 
